@@ -18,4 +18,4 @@
 
 ### 感谢：
 
-本项目原始版本由ningbnii提供：https://www.getweapp.com/project?projectId=5836b04fe8ff074c22472f17
+本项目原始版本由getweapp提供：https://github.com/getweapp/weapp-canvas-clock
